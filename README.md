@@ -1,2 +1,2 @@
-# Project-Work-1
-Univercity project
+# 2D Snake Game
+
